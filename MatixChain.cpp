@@ -160,6 +160,25 @@ else{
     }
 };
 
+
+
+
+/*
+
+Longest Palindromic
+
+*/
+
+
+
+
+
+
+
+
+
+
+
 int main(){
 
 
